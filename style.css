@@ -1,0 +1,33 @@
+    h1{
+      text-align: center;
+    }
+    .row>div{
+      margin: 4.16%;
+      border: 2px solid black;
+      padding: 0px;
+      background-color: lightgreen;
+    }
+    .row>div>p1{
+      background-color: lightpink;
+    }
+    .row>div>p2{
+       background-color: lightyellow;
+    }
+    .row>div>p3{
+       background-color: lightblue;
+    }
+    #box{
+      text-align: center;
+      width: 100px;
+      height: 30px;
+      float: right;
+      margin: 0px ;
+      border-left:2px solid black;
+      border-bottom: 2px solid black;
+      
+    }
+    #content{
+      clear: right;
+      padding: 10px;
+      box-sizing: content-box;
+    }
